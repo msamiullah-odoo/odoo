@@ -5,10 +5,9 @@
 
     'description': """
     """,
-    'author': "M Sami Ullah",
-    # Categories can be used to filter modules in modules listing
-    # Check https://github.com/odoo/odoo/blob/master/odoo/addons/base/module/module_data.xml
-    # for the full list
+    'author': "M Samiullah",
+
+
     'category': 'Lead Automation',
     'version': '1.0',
 
